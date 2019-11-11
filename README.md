@@ -14,4 +14,4 @@
 
 ## Tip
 
-<font color=red> 请开放php的`system`函数 </font>
+:exclamation: 请开放php的`system`函数 
