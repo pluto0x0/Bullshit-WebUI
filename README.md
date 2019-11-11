@@ -12,6 +12,6 @@
 
 ![Demo](https://pluto0x0.xyz/test/py/out.png)
 
-## Tip
+## Tips
 
 :exclamation: 请开放php的`system`函数 
