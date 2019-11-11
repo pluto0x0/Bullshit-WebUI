@@ -11,3 +11,7 @@
 [手写效果生成](https://github.com/Gsllchb/Handright)
 
 ![Demo](https://pluto0x0.xyz/test/py/out.png)
+
+## Tip
+
+<font color=red> 请开放php的`system`函数 </font>
