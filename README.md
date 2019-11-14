@@ -10,7 +10,7 @@
 
 [手写效果生成](https://github.com/Gsllchb/Handright)
 
-![Demo](https://pluto0x0.xyz/test/py/out.png)
+![out.png](https://i.loli.net/2019/11/14/cJUqzwnVHP1eBrS.png)
 
 ## Tips
 
