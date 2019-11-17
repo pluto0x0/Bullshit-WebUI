@@ -6,7 +6,7 @@ import random
 
 xx = "学生会退会"
 xx = sys.argv[1]
-print xx
+print(xx)
 
 text = [ 
     "现在, 解决x的问题, 是非常非常重要的. 所以, ",
